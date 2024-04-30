@@ -1,0 +1,6 @@
+.container {
+  margin: 1rem;
+}
+.nav { list-style: none; padding: 0%;}
+.nav li { display: inline-block; margin-right: 2rem; }
+ 
